@@ -1,4 +1,5 @@
 ## View of HTML Webpages:
+Here, I'll be sharing the visuals of the HTML exercises I'm working on daily.
 ### 1. HTML Basic:
 ![image](https://github.com/user-attachments/assets/a61693eb-1686-4f42-852c-0d100af03698)
 
