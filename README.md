@@ -1,4 +1,5 @@
-This repo will hold all sorts of materials/projects/resources i gather or stumble across related to full stack as im willing to delve into it.
+This repo will hold full-stack materials, projects, resources, and exercises I do as I delve into the field.
+
 
 ### Links:
 - [HTML One Shot](https://www.youtube.com/watch?v=HcOc7P5BMi4&t=14s)
